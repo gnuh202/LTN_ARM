@@ -1,0 +1,9 @@
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_gpio.h:722:26:LL_GPIO_IsInputPinSet	16	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_gpio.h:803:22:LL_GPIO_SetOutputPin	16	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_gpio.h:832:22:LL_GPIO_ResetOutputPin	16	static
+../Core/Src/task.c:14:6:led_control	16	static
+../Core/Src/task.c:20:6:is_btn_press	8	static
+../Core/Src/task.c:26:6:led_set_timer	16	static
+../Core/Src/task.c:31:6:led_timer_over	4	static
+../Core/Src/task.c:37:6:led_init_state	8	static
+../Core/Src/task.c:43:6:led_state_update	8	static
